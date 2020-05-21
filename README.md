@@ -1,4 +1,4 @@
-# Responsive Web Design:
+# Web Design:
 Bootstrap, SASS
 
 ![alt text](https://github.com/MatinOna/Web-Design/blob/master/honey_web/img/Captura_2.PNG)<hr>
