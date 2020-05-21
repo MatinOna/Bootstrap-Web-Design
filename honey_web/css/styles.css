@@ -1,0 +1,66 @@
+html {
+  font-size: 13px;
+}
+
+:root {
+  --Satisfy: "Satisfy", cursive;
+  --Roboto: "Roboto Condensed", sans-serif;
+}
+
+.lema {
+  font-family: var(--Satisfy);
+}
+
+.nosotros,
+.lema .display-4,
+.contacto {
+  font-family: var(--Roboto);
+}
+
+.nosotros .row .col-md-6 img {
+  border-radius: 0.2rem;
+}
+
+.nosotros .row .col-md-6:last-child {
+  position: relative;
+}
+
+.nosotros .row .col-md-6 .panel {
+  position: absolute;
+  top: 7vmin;
+  left: -12vmin;
+  background: white;
+  border-radius: 3px;
+  text-align: justify;
+  padding: 10vmin 5vmin;
+  box-shadow: 0px 0px 10px #cccccc;
+  z-index: 1;
+}
+
+.nosotros .row .col-md-6 .panel h3 {
+  text-align: center;
+  font-weight: bold;
+  padding: 0.4rem 0;
+}
+
+.nosotros .row .col-md-6 .panel p {
+  font-size: 1.2rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.card:hover {
+  box-shadow: 0px 0px 10px #cccccc;
+}
+
+@media only screen and (max-width: 768px) {
+  .nosotros .row .col-md-6 .panel {
+    position: initial;
+    width: initial;
+    height: initial;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: none;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
