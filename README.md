@@ -1,6 +1,7 @@
 # Responsive Web Design:
 Bootstrap, SASS
 
-![alt text](https://github.com/MatinOna/Responsive_Web_Design/blob/master/beer_web/img/uno.PNG)<hr>
-![alt text](https://github.com/MatinOna/Responsive_Web_Design/blob/master/beer_web/img/dos.PNG)<hr>
-![alt text](https://github.com/MatinOna/Responsive_Web_Design/blob/master/beer_web/img/tres.PNG)
+![alt text](https://github.com/MatinOna/Web-Design/blob/master/honey_web/img/Captura_2.PNG)<hr>
+![alt text](https://github.com/MatinOna/Web-Design/blob/master/honey_web/img/Captura_4.PNG)<hr>
+![alt text](https://github.com/MatinOna/Web-Design/blob/master/honey_web/img/Captura_0.PNG)<hr>
+![alt text](https://github.com/MatinOna/Web-Design/blob/master/honey_web/img/Captura_1.PNG)<hr>
